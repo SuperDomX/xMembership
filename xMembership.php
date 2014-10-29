@@ -6,9 +6,9 @@
  * @author cdpollard@gmail.com
  * @price $50
  * @icon Ticket.png
- * @mini plane
+ * @mini ticket
  * @link membership
- * @see market
+ * @see community
  * @todo
  */
 
