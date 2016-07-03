@@ -8,7 +8,7 @@
  * @icon Ticket.png
  * @mini ticket
  * @link membership
- * @see content
+ * @see domain 
  * @todo
  */
 
