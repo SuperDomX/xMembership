@@ -1,15 +1,16 @@
 <?php
 /**
- * @name Memberships
- * @desc Create Free and/or Paid Membership Permissions
+ * @name    Memberships
+ * @desc    Create Free and/or Paid Membership Permissions
  * @version v1.11.02.21.05.16
- * @author cdpollard@gmail.com
- * @price $50
- * @icon Ticket.png
- * @mini ticket
- * @link membership
- * @see domain 
+ * @author  cdpollard@gmail.com
+ * @price   $50
+ * @icon    Ticket.png
+ * @mini    ticket
+ * @link    membership
+ * @see     domain 
  * @todo
+ * @alpha true
  */
 
 	class xMembership extends Xengine{
